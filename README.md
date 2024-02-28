@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Karl and I'm a Front-end Development student
 
-<!--
-**karlwoien/karlwoien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My enthusiasm for creation extends from coding and design, to hands-on activities like renovating and woodworking. What drives me is the joy of seeing tangible results emerge from my efforts. 
 
-Here are some ideas to get you started:
+- 📚 Currently studying at [Noroff](https://www.noroff.no/)
+- 📍 Based in Oslo, Norway.
+- 🧑‍💻 Currently working on my first year Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Knowledge
+- Design
+- Web and Communication Technology
+- HTML and CSS
+- Project Methodology
+- JavaScript
+- Interaction Design
+- Content Managements Systems
+
+### Skills, Languages and Tools
+- JavaScript
+- HTML
+- CSS
+- Figma
+- Wordpress
+- GitHub
+- VS Code
