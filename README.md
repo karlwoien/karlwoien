@@ -5,7 +5,7 @@ My enthusiasm for creation extends from coding and design, to hands-on activitie
 
 - 📚 Currently studying at [Noroff](https://www.noroff.no/)
 - 📍 Based in Oslo, Norway.
-- 🧑‍💻 Currently working on my first year Portfolio
+- 🧑‍💻 Currently working on CSS Frameworks
 
 ### Knowledge
 - Design
