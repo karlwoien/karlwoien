@@ -8,9 +8,6 @@ My enthusiasm for creation extends from coding and design, to hands-on activitie
 - 🌱 Currently exploring Next.js
 - 🧑‍💻 Currently developing a website for a client as a freelancer
 
-Want to chat about front-end development or just grab a coffee? Feel free to reach out!
-<a href="mailto:karlwoien@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-
 ### Knowledge
 - Design
 - Web and Communication Technology
@@ -26,18 +23,18 @@ Want to chat about front-end development or just grab a coffee? Feel free to rea
 
 ### Skills, Languages and Tools
 **Languages & Frameworks**  
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) 
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) 
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg)
-![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="30"/>  
 
 **Tools & Platforms**  
-![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) 
-![WordPress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg) 
-![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) 
-![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)
-![Cypress](https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="30"/>  
