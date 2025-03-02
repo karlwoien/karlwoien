@@ -1,11 +1,15 @@
 # Hi there 👋
-## My name is Karl and I'm a Front-end Development student
+## My name is Karl and I'm a Front-end Developer
 
-My enthusiasm for creation extends from coding and design, to hands-on activities like renovating and woodworking. What drives me is the joy of seeing tangible results emerge from my efforts. 
+My enthusiasm for creation extends from coding and design, to hands-on activities like renovating and woodworking. I love bringing designs to life with clean and maintainable code. What drives me is the joy of seeing tangible results emerge from my efforts. 
 
-- 📚 Currently studying at [Noroff](https://www.noroff.no/)
+- 📚 Graduating from a 2 year study in Front-end Developing at [Noroff](https://www.noroff.no/) March 2025
 - 📍 Based in Oslo, Norway.
-- 🧑‍💻 Currently learning CSS Frameworks
+- 🌱 Currently exploring Next.js
+- 🧑‍💻 Currently developing a website for a client as a freelancer
+
+Want to chat about front-end development or just grab a coffee? Feel free to reach out!
+<a href="mailto:karlwoien@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 ### Knowledge
 - Design
@@ -15,6 +19,25 @@ My enthusiasm for creation extends from coding and design, to hands-on activitie
 - JavaScript
 - Interaction Design
 - Content Managements Systems
+- CSS frameworks
+- Workflow/testing
+- Development platforms
+- JavaScript frameworks
 
 ### Skills, Languages and Tools
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="30" width="40"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30" width="40"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="30" width="40"></a> <a href="https://www.github.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40"></a> <a href="https://www.wordpress.org" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="wordpress" height="30" width="40"></a> <a href="https://www.figma.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="figma" height="30" width="40"></a> <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/postman.svg" alt="postman" width="40" height="30"/> </a>
+**Languages & Frameworks**  
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) 
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) 
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) 
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg)
+![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+
+**Tools & Platforms**  
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) 
+![WordPress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg) 
+![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) 
+![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)
+![Cypress](https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
